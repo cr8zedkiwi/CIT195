@@ -1,0 +1,28 @@
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfo.cs
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\source\repos\greatAdventure\bin\Debug\net6.0\greatAdventure.exe
+C:\Users\CR8ZE\source\repos\greatAdventure\bin\Debug\net6.0\greatAdventure.deps.json
+C:\Users\CR8ZE\source\repos\greatAdventure\bin\Debug\net6.0\greatAdventure.runtimeconfig.json
+C:\Users\CR8ZE\source\repos\greatAdventure\bin\Debug\net6.0\greatAdventure.dll
+C:\Users\CR8ZE\source\repos\greatAdventure\bin\Debug\net6.0\greatAdventure.pdb
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.dll
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\refint\greatAdventure.dll
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.pdb
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\greatAdventure.genruntimeconfig.cache
+C:\Users\CR8ZE\source\repos\greatAdventure\obj\Debug\net6.0\ref\greatAdventure.dll
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\bin\Debug\net6.0\greatAdventure.exe
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\bin\Debug\net6.0\greatAdventure.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\bin\Debug\net6.0\greatAdventure.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\bin\Debug\net6.0\greatAdventure.dll
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\bin\Debug\net6.0\greatAdventure.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.dll
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\refint\greatAdventure.dll
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\greatAdventure.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\greatAdventure\obj\Debug\net6.0\ref\greatAdventure.dll
