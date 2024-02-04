@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\source\repos\mathMagic\bin\Debug\net6.0\mathMagic.exe
+C:\Users\CR8ZE\source\repos\mathMagic\bin\Debug\net6.0\mathMagic.deps.json
+C:\Users\CR8ZE\source\repos\mathMagic\bin\Debug\net6.0\mathMagic.runtimeconfig.json
+C:\Users\CR8ZE\source\repos\mathMagic\bin\Debug\net6.0\mathMagic.dll
+C:\Users\CR8ZE\source\repos\mathMagic\bin\Debug\net6.0\mathMagic.pdb
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.AssemblyInfo.cs
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.dll
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\refint\mathMagic.dll
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.pdb
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\mathMagic.genruntimeconfig.cache
+C:\Users\CR8ZE\source\repos\mathMagic\obj\Debug\net6.0\ref\mathMagic.dll
