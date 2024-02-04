@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\source\repos\frogAdventure\bin\Debug\net6.0\frogAdventure.exe
+C:\Users\CR8ZE\source\repos\frogAdventure\bin\Debug\net6.0\frogAdventure.deps.json
+C:\Users\CR8ZE\source\repos\frogAdventure\bin\Debug\net6.0\frogAdventure.runtimeconfig.json
+C:\Users\CR8ZE\source\repos\frogAdventure\bin\Debug\net6.0\frogAdventure.dll
+C:\Users\CR8ZE\source\repos\frogAdventure\bin\Debug\net6.0\frogAdventure.pdb
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.AssemblyInfo.cs
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.dll
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\refint\frogAdventure.dll
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.pdb
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\frogAdventure.genruntimeconfig.cache
+C:\Users\CR8ZE\source\repos\frogAdventure\obj\Debug\net6.0\ref\frogAdventure.dll
