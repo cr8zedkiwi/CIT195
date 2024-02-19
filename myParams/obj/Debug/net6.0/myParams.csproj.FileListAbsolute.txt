@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\bin\Debug\net6.0\myParams.exe
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\bin\Debug\net6.0\myParams.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\bin\Debug\net6.0\myParams.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\bin\Debug\net6.0\myParams.dll
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\bin\Debug\net6.0\myParams.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.dll
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\refint\myParams.dll
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\myParams.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\myParams\obj\Debug\net6.0\ref\myParams.dll
