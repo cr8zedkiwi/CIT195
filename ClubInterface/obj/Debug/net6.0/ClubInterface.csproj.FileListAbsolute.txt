@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\bin\Debug\net6.0\ClubInterface.exe
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\bin\Debug\net6.0\ClubInterface.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\bin\Debug\net6.0\ClubInterface.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\bin\Debug\net6.0\ClubInterface.dll
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\bin\Debug\net6.0\ClubInterface.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.dll
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\refint\ClubInterface.dll
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ClubInterface.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\ClubInterface\obj\Debug\net6.0\ref\ClubInterface.dll
