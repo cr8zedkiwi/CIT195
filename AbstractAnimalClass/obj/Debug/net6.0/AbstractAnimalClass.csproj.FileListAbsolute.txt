@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.exe
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\bin\Debug\net6.0\AbstractAnimalClass.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\refint\AbstractAnimalClass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\AbstractAnimalClass.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\AbstractAnimalClass\obj\Debug\net6.0\ref\AbstractAnimalClass.dll
