@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\bin\Debug\net6.0\Interfaceclass.exe
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\bin\Debug\net6.0\Interfaceclass.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\bin\Debug\net6.0\Interfaceclass.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\bin\Debug\net6.0\Interfaceclass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\bin\Debug\net6.0\Interfaceclass.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\refint\Interfaceclass.dll
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\Interfaceclass.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\Interfaceclass\obj\Debug\net6.0\ref\Interfaceclass.dll
