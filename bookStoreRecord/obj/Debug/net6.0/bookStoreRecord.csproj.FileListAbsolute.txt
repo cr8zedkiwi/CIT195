@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\bin\Debug\net6.0\bookStoreRecord.exe
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\bin\Debug\net6.0\bookStoreRecord.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\bin\Debug\net6.0\bookStoreRecord.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\bin\Debug\net6.0\bookStoreRecord.dll
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\bin\Debug\net6.0\bookStoreRecord.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.dll
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\refint\bookStoreRecord.dll
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\bookStoreRecord.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\bookStoreRecord\obj\Debug\net6.0\ref\bookStoreRecord.dll
