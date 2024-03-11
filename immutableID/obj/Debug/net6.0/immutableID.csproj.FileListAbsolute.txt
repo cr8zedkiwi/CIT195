@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\bin\Debug\net6.0\immutableID.exe
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\bin\Debug\net6.0\immutableID.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\bin\Debug\net6.0\immutableID.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\bin\Debug\net6.0\immutableID.dll
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\bin\Debug\net6.0\immutableID.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.dll
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\refint\immutableID.dll
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\immutableID.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\immutableID\obj\Debug\net6.0\ref\immutableID.dll
