@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\bin\Debug\net6.0\SortedList.exe
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\bin\Debug\net6.0\SortedList.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\bin\Debug\net6.0\SortedList.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\bin\Debug\net6.0\SortedList.dll
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\bin\Debug\net6.0\SortedList.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.dll
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\refint\SortedList.dll
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\SortedList.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\SortedList\obj\Debug\net6.0\ref\SortedList.dll
