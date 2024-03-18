@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\bin\Debug\net6.0\StackCollection.exe
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\bin\Debug\net6.0\StackCollection.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\bin\Debug\net6.0\StackCollection.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\bin\Debug\net6.0\StackCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\bin\Debug\net6.0\StackCollection.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\refint\StackCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\StackCollection.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\StackCollection\obj\Debug\net6.0\ref\StackCollection.dll
