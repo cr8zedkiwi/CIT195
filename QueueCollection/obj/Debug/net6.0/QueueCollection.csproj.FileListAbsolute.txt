@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\bin\Debug\net6.0\QueueCollection.exe
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\bin\Debug\net6.0\QueueCollection.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\bin\Debug\net6.0\QueueCollection.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\bin\Debug\net6.0\QueueCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\bin\Debug\net6.0\QueueCollection.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\refint\QueueCollection.dll
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\QueueCollection.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\QueueCollection\obj\Debug\net6.0\ref\QueueCollection.dll
