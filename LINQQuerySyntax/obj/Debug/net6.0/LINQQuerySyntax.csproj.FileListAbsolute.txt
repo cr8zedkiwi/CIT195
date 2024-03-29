@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\bin\Debug\net6.0\LINQQuerySyntax.exe
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\bin\Debug\net6.0\LINQQuerySyntax.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\bin\Debug\net6.0\LINQQuerySyntax.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\bin\Debug\net6.0\LINQQuerySyntax.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\bin\Debug\net6.0\LINQQuerySyntax.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\refint\LINQQuerySyntax.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\LINQQuerySyntax.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQQuerySyntax\obj\Debug\net6.0\ref\LINQQuerySyntax.dll
