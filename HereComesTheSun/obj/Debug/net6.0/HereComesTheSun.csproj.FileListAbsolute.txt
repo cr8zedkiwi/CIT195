@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\bin\Debug\net6.0\HereComesTheSun.exe
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\bin\Debug\net6.0\HereComesTheSun.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\bin\Debug\net6.0\HereComesTheSun.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\bin\Debug\net6.0\HereComesTheSun.dll
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\bin\Debug\net6.0\HereComesTheSun.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.dll
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\refint\HereComesTheSun.dll
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\HereComesTheSun.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\HereComesTheSun\obj\Debug\net6.0\ref\HereComesTheSun.dll
