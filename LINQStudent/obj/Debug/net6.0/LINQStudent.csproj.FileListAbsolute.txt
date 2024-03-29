@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\bin\Debug\net6.0\LINQStudent.exe
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\bin\Debug\net6.0\LINQStudent.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\bin\Debug\net6.0\LINQStudent.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\bin\Debug\net6.0\LINQStudent.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\bin\Debug\net6.0\LINQStudent.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\refint\LINQStudent.dll
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\LINQStudent.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\LINQStudent\obj\Debug\net6.0\ref\LINQStudent.dll
