@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\bin\Debug\net6.0\MathSolutions.exe
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\bin\Debug\net6.0\MathSolutions.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\bin\Debug\net6.0\MathSolutions.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\bin\Debug\net6.0\MathSolutions.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\bin\Debug\net6.0\MathSolutions.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\refint\MathSolutions.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\MathSolutions.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MathSolutions\obj\Debug\net6.0\ref\MathSolutions.dll
