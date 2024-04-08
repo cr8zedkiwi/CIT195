@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\bin\Debug\net6.0\OperatorOverloadingPart2.exe
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\bin\Debug\net6.0\OperatorOverloadingPart2.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\bin\Debug\net6.0\OperatorOverloadingPart2.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\bin\Debug\net6.0\OperatorOverloadingPart2.dll
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\bin\Debug\net6.0\OperatorOverloadingPart2.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.dll
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\refint\OperatorOverloadingPart2.dll
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\OperatorOverloadingPart2.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\OperatorOverloadingPart2\obj\Debug\net6.0\ref\OperatorOverloadingPart2.dll
