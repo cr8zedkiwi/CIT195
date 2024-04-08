@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\bin\Debug\net6.0\MyOwnOverloadingOperator.exe
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\bin\Debug\net6.0\MyOwnOverloadingOperator.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\bin\Debug\net6.0\MyOwnOverloadingOperator.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\bin\Debug\net6.0\MyOwnOverloadingOperator.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\bin\Debug\net6.0\MyOwnOverloadingOperator.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\refint\MyOwnOverloadingOperator.dll
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\MyOwnOverloadingOperator.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\MyOwnOverloadingOperator\obj\Debug\net6.0\ref\MyOwnOverloadingOperator.dll
