@@ -1,0 +1,14 @@
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\bin\Debug\net6.0\asynchronousProgram.exe
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\bin\Debug\net6.0\asynchronousProgram.deps.json
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\bin\Debug\net6.0\asynchronousProgram.runtimeconfig.json
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\bin\Debug\net6.0\asynchronousProgram.dll
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\bin\Debug\net6.0\asynchronousProgram.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.AssemblyInfoInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.AssemblyInfo.cs
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.csproj.CoreCompileInputs.cache
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.dll
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\refint\asynchronousProgram.dll
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.pdb
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\asynchronousProgram.genruntimeconfig.cache
+C:\Users\CR8ZE\Desktop\CIT 195\asynchronousProgram\obj\Debug\net6.0\ref\asynchronousProgram.dll
